@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android13MultiLang</string>
+    <string name="current_language">Nederlands (Nederland)</string>
+    <string name="subtitle">Huidige taal:</string>
+</resources>
